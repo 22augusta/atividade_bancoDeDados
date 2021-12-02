@@ -1,0 +1,20 @@
+[{ 
+
+ "DadosBanco":{
+    "NomeInst":"BNAI - Banco Nacional de Atividades Ilegais",
+     "Dt":"01/12/2021",
+    "Hora":"9:38",
+    "Terminal":155
+ },
+
+ "DadosCliente":{
+    "Ag": 1518,
+    "Conta":"1214-7",
+    "Cliente": "Fernando Global",
+    "CPF": "003.795.666-05",
+    "Tel.": 81988663238
+   },
+
+ "Saldo": "150.000 Bilhões"
+   
+}]
